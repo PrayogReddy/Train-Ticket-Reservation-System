@@ -63,7 +63,6 @@
 			<version>42.3.7</version>
 		</dependency>
 
-
 		<dependency>
 			<groupId>mysql</groupId>
 			<artifactId>mysql-connector-java</artifactId>
